@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/
+artifacts/
+.venv/
+.env
+kaggle.json
+.ipynb_checkpoints/
+__pycache__/
+
+.kaggle
+kaggle.json
